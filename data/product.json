@@ -1,0 +1,5742 @@
+[
+  {
+    "category": "Men",
+    "wearCategory": "TopWear",
+    "subWearCategory": [
+      {
+        "name": "Tshirt",
+        "product": [
+          {
+            "name": "Polo",
+            "description": "Sophisticated Comfortable Golf Inspired Design",
+            "price": "500",
+            "discounted_price": "350",
+            "off_percentage": "30",
+            "ratting": "2/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1jXgnMGLkhn4ql1VI2BJfmqiXYxnX7H1G",
+                "img2": "https://drive.google.com/uc?export=view&id=1jXgnMGLkhn4ql1VI2BJfmqiXYxnX7H1G",
+                "img3": "https://drive.google.com/uc?export=view&id=1jXgnMGLkhn4ql1VI2BJfmqiXYxnX7H1G"
+              }
+            ],
+            "inventary": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "TopWear",
+    "subWearCategory": [
+      {
+        "name": "Tshirt",
+        "product": [
+          {
+            "name": "Long Sleeves",
+            "description": "Elegant Thermal Insulation for Men",
+            "price": "700",
+            "discounted_price": "630",
+            "off_percentage": "10",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1-8H9iA-i41nHtsHvhwyJeXr2B1AKTWhS",
+                "img2": "https://drive.google.com/uc?export=view&id=1-8H9iA-i41nHtsHvhwyJeXr2B1AKTWhS",
+                "img3": "https://drive.google.com/uc?export=view&id=1-8H9iA-i41nHtsHvhwyJeXr2B1AKTWhS"
+              }
+            ],
+            "inventary": 87
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "TopWear",
+    "subWearCategory": [
+      {
+        "name": "Tshirt",
+        "product": [
+          {
+            "name": "SleeveLess",
+            "description": "Stylish Comfort for Warm Weather",
+            "price": "500",
+            "discounted_price": "400",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "White",
+                "color3": "Green"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1SI3nsYsJVBVgunZn19PDh4XzAkDjtCM0",
+                "img2": "https://drive.google.com/uc?export=view&id=1SI3nsYsJVBVgunZn19PDh4XzAkDjtCM0",
+                "img3": "https://drive.google.com/uc?export=view&id=1SI3nsYsJVBVgunZn19PDh4XzAkDjtCM0"
+              }
+            ],
+            "inventary": 87
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "TopWear",
+    "subWearCategory": [
+      {
+        "name": "Tshirt",
+        "product": [
+          {
+            "name": "V-neck",
+            "description": "Classic Style for Timeless Fashion",
+            "price": "1000",
+            "discounted_price": "800",
+            "off_percentage": "20",
+            "ratting": "5/5",
+            "color_variant": [
+              {
+                "color1": "Yellow",
+                "color2": "Red",
+                "color3": "Green"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1G7J-WWZk14FvKCn90YGRoXi-9PaOx7ap",
+                "img2": "https://drive.google.com/uc?export=view&id=1G7J-WWZk14FvKCn90YGRoXi-9PaOx7ap",
+                "img3": "https://drive.google.com/uc?export=view&id=1G7J-WWZk14FvKCn90YGRoXi-9PaOx7ap"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "TopWear",
+    "subWearCategory": [
+      {
+        "name": "Tshirt",
+        "product": [
+          {
+            "name": "GraphicTree",
+            "description": "Vibrant Visual Representation of Nature",
+            "price": "800",
+            "discounted_price": "600",
+            "off_percentage": "20",
+            "ratting": "5/5",
+            "color_variant": [
+              {
+                "color1": "White",
+                "color2": "Black",
+                "color3": "Yellow"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1bSPXBHmWAGGP8i31_nMUDU-bWs_oVEv_",
+                "img2": "https://drive.google.com/uc?export=view&id=1bSPXBHmWAGGP8i31_nMUDU-bWs_oVEv_",
+                "img3": "https://drive.google.com/uc?export=view&id=1bSPXBHmWAGGP8i31_nMUDU-bWs_oVEv_"
+              }
+            ],
+            "inventary": 97
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "TopWear",
+    "subWearCategory": [
+      {
+        "name": "Casualshirt",
+        "product": [
+          {
+            "name": "Plain Linen",
+            "description": "Timeless Style in Natural Fabric",
+            "price": "1000",
+            "discounted_price": "800",
+            "off_percentage": "20",
+            "ratting": "5/5",
+            "color_variant": [
+              {
+                "color1": "Leather",
+                "color2": "Black",
+                "color3": "Grey"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1GgA08RZyWiUnixZP8nJeOY30ZA-hBI4-",
+                "img2": "https://drive.google.com/uc?export=view&id=1GgA08RZyWiUnixZP8nJeOY30ZA-hBI4-",
+                "img3": "https://drive.google.com/uc?export=view&id=1GgA08RZyWiUnixZP8nJeOY30ZA-hBI4-"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "TopWear",
+    "subWearCategory": [
+      {
+        "name": "Casualshirt",
+        "product": [
+          {
+            "name": "NickSon's Shirt",
+            "description": "Comfortable Style for Everyday Wear",
+            "price": "300",
+            "discounted_price": "270",
+            "off_percentage": "10",
+            "ratting": "3/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Yellow",
+                "color3": "Green"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1BI_mC8uzQjchu4d4HobwTpogk01oYnol",
+                "img2": "https://drive.google.com/uc?export=view&id=1BI_mC8uzQjchu4d4HobwTpogk01oYnol",
+                "img3": "https://drive.google.com/uc?export=view&id=1BI_mC8uzQjchu4d4HobwTpogk01oYnol"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "TopWear",
+    "subWearCategory": [
+      {
+        "name": "Casualshirt",
+        "product": [
+          {
+            "name": "Men's Wind Solid",
+            "description": "Relaxed Fit for Casual Ease",
+            "price": "400",
+            "discounted_price": "360",
+            "off_percentage": "10",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Green",
+                "color2": "Red",
+                "color3": "Grey"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1AxsX2UcD8WehJMkCzKtFEVTL6wWAuN8M",
+                "img2": "https://drive.google.com/uc?export=view&id=1AxsX2UcD8WehJMkCzKtFEVTL6wWAuN8M",
+                "img3": "https://drive.google.com/uc?export=view&id=1AxsX2UcD8WehJMkCzKtFEVTL6wWAuN8M"
+              }
+            ],
+            "inventary": 92
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "TopWear",
+    "subWearCategory": [
+      {
+        "name": "Casualshirt",
+        "product": [
+          {
+            "name": "Draft Wood Men's Shirt",
+            "description": "Timeless Design for Active Men",
+            "price": "1000",
+            "discounted_price": "900",
+            "off_percentage": "10",
+            "ratting": "5/5",
+            "color_variant": [
+              {
+                "color1": "Grey",
+                "color2": "Red",
+                "color3": "Black"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "xl",
+                "size2": "xxl",
+                "size3": "lg"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=19whjQ0aBGkLmrANfHDjlYDqGcrSvuALF",
+                "img2": "https://drive.google.com/uc?export=view&id=19whjQ0aBGkLmrANfHDjlYDqGcrSvuALF",
+                "img3": "https://drive.google.com/uc?export=view&id=19whjQ0aBGkLmrANfHDjlYDqGcrSvuALF"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "TopWear",
+    "subWearCategory": [
+      {
+        "name": "Casualshirt",
+        "product": [
+          {
+            "name": "Men's Casual",
+            "description": " Comfortable Style for Everyday Wear",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Green",
+                "color3": "Yellow"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1KwrNWwh83sW95v1WMI4u3HVy2wdMpQw0",
+                "img2": "https://drive.google.com/uc?export=view&id=1KwrNWwh83sW95v1WMI4u3HVy2wdMpQw0",
+                "img3": "https://drive.google.com/uc?export=view&id=1KwrNWwh83sW95v1WMI4u3HVy2wdMpQw0"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "TopWear",
+    "subWearCategory": [
+      {
+        "name": "Formalshirt",
+        "product": [
+          {
+            "name": "Arctic White",
+            "description": " Pure Arctic White Classic Fit",
+            "price": "400",
+            "discounted_price": "360",
+            "off_percentage": "10",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1cK3NsvMLETQHYyjjEZpxeAiZJyEWUNIs",
+                "img2": "https://drive.google.com/uc?export=view&id=1cK3NsvMLETQHYyjjEZpxeAiZJyEWUNIs",
+                "img3": "https://drive.google.com/uc?export=view&id=1cK3NsvMLETQHYyjjEZpxeAiZJyEWUNIs"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "TopWear",
+    "subWearCategory": [
+      {
+        "name": "Formalshirt",
+        "product": [
+          {
+            "name": "Cobba Black Solid",
+            "description": "Versatile Black Solid for Men",
+            "price": "9000",
+            "discounted_price": "900",
+            "off_percentage": "90",
+            "ratting": "5/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1rjqP3Eo44bDDHhTNlRrb2YI8M4JzMOaX",
+                "img2": "https://drive.google.com/uc?export=view&id=1rjqP3Eo44bDDHhTNlRrb2YI8M4JzMOaX",
+                "img3": "https://drive.google.com/uc?export=view&id=1rjqP3Eo44bDDHhTNlRrb2YI8M4JzMOaX"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "TopWear",
+    "subWearCategory": [
+      {
+        "name": "Formalshirt",
+        "product": [
+          {
+            "name": "Collard",
+            "description": "Polished Finish for Confident Style",
+            "price": "5000",
+            "discounted_price": "4500",
+            "off_percentage": "10",
+            "ratting": "5/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1Xs9WOOR5i4jbOe3ZStoWnUU12nHi9fbk",
+                "img2": "https://drive.google.com/uc?export=view&id=1Xs9WOOR5i4jbOe3ZStoWnUU12nHi9fbk",
+                "img3": "https://drive.google.com/uc?export=view&id=1Xs9WOOR5i4jbOe3ZStoWnUU12nHi9fbk"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "TopWear",
+    "subWearCategory": [
+      {
+        "name": "Formalshirt",
+        "product": [
+          {
+            "name": "Luxury Cascade Shirt",
+            "description": "Opulent Style for Discerning Men",
+            "price": "6000",
+            "discounted_price": "5400",
+            "off_percentage": "10",
+            "ratting": "3/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1yI-gzlMzrXyKn2fIB673y5WtmOq2Pdzx",
+                "img2": "https://drive.google.com/uc?export=view&id=1yI-gzlMzrXyKn2fIB673y5WtmOq2Pdzx",
+                "img3": "https://drive.google.com/uc?export=view&id=1yI-gzlMzrXyKn2fIB673y5WtmOq2Pdzx"
+              }
+            ],
+            "inventary": 97
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "TopWear",
+    "subWearCategory": [
+      {
+        "name": "Formalshirt",
+        "product": [
+          {
+            "name": "Plain Solid",
+            "description": "Comfortable and Classic Plain Shirt",
+            "price": "800",
+            "discounted_price": "400",
+            "off_percentage": "50",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1UAUemNXLbi6_oKXFz4ovrPJLgcJThnnj",
+                "img2": "https://drive.google.com/uc?export=view&id=1UAUemNXLbi6_oKXFz4ovrPJLgcJThnnj",
+                "img3": "https://drive.google.com/uc?export=view&id=1UAUemNXLbi6_oKXFz4ovrPJLgcJThnnj"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "TopWear",
+    "subWearCategory": [
+      {
+        "name": "Sweaters",
+        "product": [
+          {
+            "name": "Aran Men's",
+            "description": "Cozy and Durable Knitwear Option",
+            "price": "700",
+            "discounted_price": "630",
+            "off_percentage": "10",
+            "ratting": "5/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1xbInYp_QPXRLWf1FQmhW0L0AKZ3ceXjWhttps://drive.google.com/uc?export=view&id=1DKX5Ccd8W6yrCDLVn2sB79uyGxltM_Bp",
+                "img2": "https://drive.google.com/uc?export=view&id=1xbInYp_QPXRLWf1FQmhW0L0AKZ3ceXjWhttps://drive.google.com/uc?export=view&id=1DKX5Ccd8W6yrCDLVn2sB79uyGxltM_Bp",
+                "img3": "https://drive.google.com/uc?export=view&id=1xbInYp_QPXRLWf1FQmhW0L0AKZ3ceXjWhttps://drive.google.com/uc?export=view&id=1DKX5Ccd8W6yrCDLVn2sB79uyGxltM_Bp"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "TopWear",
+    "subWearCategory": [
+      {
+        "name": "Sweaters",
+        "product": [
+          {
+            "name": "Bean Organic Cotton",
+            "description": "Soft and Sustainable Cotton Comfort",
+            "price": 100,
+            "discounted_price": "50",
+            "off_percentage": "50",
+            "ratting": "3/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1DKX5Ccd8W6yrCDLVn2sB79uyGxltM_Bp",
+                "img2": "https://drive.google.com/uc?export=view&id=1DKX5Ccd8W6yrCDLVn2sB79uyGxltM_Bp",
+                "img3": "https://drive.google.com/uc?export=view&id=1DKX5Ccd8W6yrCDLVn2sB79uyGxltM_Bp"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "TopWear",
+    "subWearCategory": [
+      {
+        "name": "Sweaters",
+        "product": [
+          {
+            "name": "Grey Marl",
+            "description": "Versatile Grey Marl for Everyday",
+            "price": "300",
+            "discounted_price": "270",
+            "off_percentage": "10",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=15I6e8ITsqZgMvcMZ3v_pR5eKLyEvKfGv",
+                "img2": "https://drive.google.com/uc?export=view&id=15I6e8ITsqZgMvcMZ3v_pR5eKLyEvKfGv",
+                "img3": "https://drive.google.com/uc?export=view&id=15I6e8ITsqZgMvcMZ3v_pR5eKLyEvKfGv"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "TopWear",
+    "subWearCategory": [
+      {
+        "name": "Sweaters",
+        "product": [
+          {
+            "name": "Hand's Knit",
+            "description": "Unique and Cozy Handmade Knits",
+            "price": "3000",
+            "discounted_price": "2400",
+            "off_percentage": "20",
+            "ratting": "5/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1THdlQ1-sQpSzgUiNP-xR70qTnP_opfdM",
+                "img2": "https://drive.google.com/uc?export=view&id=1THdlQ1-sQpSzgUiNP-xR70qTnP_opfdM",
+                "img3": "https://drive.google.com/uc?export=view&id=1THdlQ1-sQpSzgUiNP-xR70qTnP_opfdM"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "TopWear",
+    "subWearCategory": [
+      {
+        "name": "Sweaters",
+        "product": [
+          {
+            "name": "Turtle Neck Knitted PullOver",
+            "description": "Classic Elegance in Turtle Neck",
+            "price": "250",
+            "discounted_price": "200",
+            "off_percentage": "20",
+            "ratting": "5/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1VPfrrSn9ucUwaWfYmhkfLH9YVa8d-ww7",
+                "img2": "https://drive.google.com/uc?export=view&id=1VPfrrSn9ucUwaWfYmhkfLH9YVa8d-ww7",
+                "img3": "https://drive.google.com/uc?export=view&id=1VPfrrSn9ucUwaWfYmhkfLH9YVa8d-ww7"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "BottomWear",
+    "subWearCategory": [
+      {
+        "name": "Jeans",
+        "product": [
+          {
+            "name": "Relaxed Tampered Jeans",
+            "description": "Classic Comfort for Everyday Wear",
+            "price": "550",
+            "discounted_price": "440",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1dCYfWMC4Nx8uCe6e8Q-oyhWiqnCvZkLV",
+                "img2": "https://drive.google.com/uc?export=view&id=1dCYfWMC4Nx8uCe6e8Q-oyhWiqnCvZkLV",
+                "img3": "https://drive.google.com/uc?export=view&id=1dCYfWMC4Nx8uCe6e8Q-oyhWiqnCvZkLV"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "BottomWear",
+    "subWearCategory": [
+      {
+        "name": "Jeans",
+        "product": [
+          {
+            "name": "Distressed Jeans",
+            "description": "Bold Fashion Statement in Distress",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "5/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1_Gwv1HigQkeggI3zyDLuiD-RLJ6_gPBJ",
+                "img2": "https://drive.google.com/uc?export=view&id=1_Gwv1HigQkeggI3zyDLuiD-RLJ6_gPBJ",
+                "img3": "https://drive.google.com/uc?export=view&id=1_Gwv1HigQkeggI3zyDLuiD-RLJ6_gPBJ"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "BottomWear",
+    "subWearCategory": [
+      {
+        "name": "Jeans",
+        "product": [
+          {
+            "name": "Slim Straight Jeans",
+            "description": "Slim Fit for Modern Comfort",
+            "price": "600",
+            "discounted_price": "540",
+            "off_percentage": "10",
+            "ratting": "5/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1pt9g04bcxXQepnyyTxll3lpn0JubO1VG",
+                "img2": "https://drive.google.com/uc?export=view&id=1pt9g04bcxXQepnyyTxll3lpn0JubO1VG",
+                "img3": "https://drive.google.com/uc?export=view&id=1pt9g04bcxXQepnyyTxll3lpn0JubO1VG"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "BottomWear",
+    "subWearCategory": [
+      {
+        "name": "Jeans",
+        "product": [
+          {
+            "name": "BootCut Jeans",
+            "description": "Rugged and Adventurous Bootcut Style",
+            "price": "900",
+            "discounted_price": "810",
+            "off_percentage": "10",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1cY7EW1txSpH3A0ChhXz1Ik6ua2iWNHii",
+                "img2": "https://drive.google.com/uc?export=view&id=1cY7EW1txSpH3A0ChhXz1Ik6ua2iWNHii",
+                "img3": "https://drive.google.com/uc?export=view&id=1cY7EW1txSpH3A0ChhXz1Ik6ua2iWNHii"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "BottomWear",
+    "subWearCategory": [
+      {
+        "name": "Jeans",
+        "product": [
+          {
+            "name": "Wide Legs Jeans",
+            "description": "Wide Leg with High Waist",
+            "price": "800",
+            "discounted_price": "720",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1LI0uEp1BdvOkHJBpdW19xsDykV2rWESY",
+                "img2": "https://drive.google.com/uc?export=view&id=1LI0uEp1BdvOkHJBpdW19xsDykV2rWESY",
+                "img3": "https://drive.google.com/uc?export=view&id=1LI0uEp1BdvOkHJBpdW19xsDykV2rWESY"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "BottomWear",
+    "subWearCategory": [
+      {
+        "name": "CasualTrousers",
+        "product": [
+          {
+            "name": "Black Solid",
+            "description": " Slim-Fit Black Trousers for Style",
+            "price": "400",
+            "discounted_price": "360",
+            "off_percentage": "10",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1QgQ5vhojKFh4cjh82I9oFyEd9SlHCBwY",
+                "img2": "https://drive.google.com/uc?export=view&id=1QgQ5vhojKFh4cjh82I9oFyEd9SlHCBwY",
+                "img3": "https://drive.google.com/uc?export=view&id=1QgQ5vhojKFh4cjh82I9oFyEd9SlHCBwY"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "BottomWear",
+    "subWearCategory": [
+      {
+        "name": "CasualTrousers",
+        "product": [
+          {
+            "name": "Slim Fit",
+            "description": "Slim Through Hip and Thigh",
+            "price": "1000",
+            "discounted_price": "500",
+            "off_percentage": "50",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1ZCp_3ko7W5mD7ecjXxzOPgOR0XoGTsfM",
+                "img2": "https://drive.google.com/uc?export=view&id=1ZCp_3ko7W5mD7ecjXxzOPgOR0XoGTsfM",
+                "img3": "https://drive.google.com/uc?export=view&id=1ZCp_3ko7W5mD7ecjXxzOPgOR0XoGTsfM"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "BottomWear",
+    "subWearCategory": [
+      {
+        "name": "CasualTrousers",
+        "product": [
+          {
+            "name": "Lycra Paint",
+            "description": "Elastic Finish for Comfortable Fabrics",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1diaGJkVmbTnUa6yLxdkCGl043-cPItAm",
+                "img2": "https://drive.google.com/uc?export=view&id=1diaGJkVmbTnUa6yLxdkCGl043-cPItAm",
+                "img3": "https://drive.google.com/uc?export=view&id=1diaGJkVmbTnUa6yLxdkCGl043-cPItAm"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "BottomWear",
+    "subWearCategory": [
+      {
+        "name": "CasualTrousers",
+        "product": [
+          {
+            "name": "Stay Cool",
+            "description": "Stay Cool and Comfortable Always",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1R7PlGZGGftxAkDKomTnNSnpSzoVPbP0N",
+                "img2": "https://drive.google.com/uc?export=view&id=1R7PlGZGGftxAkDKomTnNSnpSzoVPbP0N",
+                "img3": "https://drive.google.com/uc?export=view&id=1R7PlGZGGftxAkDKomTnNSnpSzoVPbP0N"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "BottomWear",
+    "subWearCategory": [
+      {
+        "name": "CasualTrousers",
+        "product": [
+          {
+            "name": "Ezee Sleeves",
+            "description": "Easy-On Sleeves for Comfort Wear",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1J_GGAcVsIEb0HIs_oInTetCOmZQs8saU",
+                "img2": "https://drive.google.com/uc?export=view&id=1J_GGAcVsIEb0HIs_oInTetCOmZQs8saU",
+                "img3": "https://drive.google.com/uc?export=view&id=1J_GGAcVsIEb0HIs_oInTetCOmZQs8saU"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "BottomWear",
+    "subWearCategory": [
+      {
+        "name": "FormalTrousers",
+        "product": [
+          {
+            "name": "Gurkha Paint",
+            "description": "Classic Gurkha-Style Pant Design",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=17ZVDNIatm5E9OfnYflA9pbrpLDq7zKDx",
+                "img2": "https://drive.google.com/uc?export=view&id=17ZVDNIatm5E9OfnYflA9pbrpLDq7zKDx",
+                "img3": "https://drive.google.com/uc?export=view&id=17ZVDNIatm5E9OfnYflA9pbrpLDq7zKDx"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "BottomWear",
+    "subWearCategory": [
+      {
+        "name": "FormalTrousers",
+        "product": [
+          {
+            "name": "Haul Chic",
+            "description": "Premium Materials for Luxury Feel",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1CJyoGT2H0xEYDMSabYv10xyym1qm4iq3",
+                "img2": "https://drive.google.com/uc?export=view&id=1CJyoGT2H0xEYDMSabYv10xyym1qm4iq3",
+                "img3": "https://drive.google.com/uc?export=view&id=1CJyoGT2H0xEYDMSabYv10xyym1qm4iq3"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "BottomWear",
+    "subWearCategory": [
+      {
+        "name": "FormalTrousers",
+        "product": [
+          {
+            "name": "High Waist",
+            "description": "High-Rise Waist with Slim Leg",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1j_NyYkPaF2ec6-XyHU8TouHuhjXUHWRs",
+                "img2": "https://drive.google.com/uc?export=view&id=1j_NyYkPaF2ec6-XyHU8TouHuhjXUHWRs",
+                "img3": "https://drive.google.com/uc?export=view&id=1j_NyYkPaF2ec6-XyHU8TouHuhjXUHWRs"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "BottomWear",
+    "subWearCategory": [
+      {
+        "name": "FormalTrousers",
+        "product": [
+          {
+            "name": "Checks",
+            "description": "Slim-Fit Formal Checks Trousers Design",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1KG21mpDX84adMMA6PBhV4e4oTojRJNk-",
+                "img2": "https://drive.google.com/uc?export=view&id=1KG21mpDX84adMMA6PBhV4e4oTojRJNk-",
+                "img3": "https://drive.google.com/uc?export=view&id=1KG21mpDX84adMMA6PBhV4e4oTojRJNk-"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "BottomWear",
+    "subWearCategory": [
+      {
+        "name": "FormalTrousers",
+        "product": [
+          {
+            "name": "Italian Gurkha Pant",
+            "description": "Sleek Italian-Inspired Gurkha Pant Design",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1BHeCwmD0Otq4jYZ1-BK7bvPeeTxYvptt",
+                "img2": "https://drive.google.com/uc?export=view&id=1BHeCwmD0Otq4jYZ1-BK7bvPeeTxYvptt",
+                "img3": "https://drive.google.com/uc?export=view&id=1BHeCwmD0Otq4jYZ1-BK7bvPeeTxYvptt"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "BottomWear",
+    "subWearCategory": [
+      {
+        "name": "Shorts",
+        "product": [
+          {
+            "name": "Men's Traditional Short's",
+            "description": "Authentic and Durable Men's Shorts",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1ecLllQO8r2RroVBIQ7FqrG0c64dEK9C6",
+                "img2": "https://drive.google.com/uc?export=view&id=1ecLllQO8r2RroVBIQ7FqrG0c64dEK9C6",
+                "img3": "https://drive.google.com/uc?export=view&id=1ecLllQO8r2RroVBIQ7FqrG0c64dEK9C6"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "BottomWear",
+    "subWearCategory": [
+      {
+        "name": "Shorts",
+        "product": [
+          {
+            "name": "Men's Cotton Short's",
+            "description": "Relaxed Fit Cotton Shorts Design",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1DgD5nA1h4pGa6K6o7QzACwxzaZMMs2db",
+                "img2": "https://drive.google.com/uc?export=view&id=1DgD5nA1h4pGa6K6o7QzACwxzaZMMs2db",
+                "img3": "https://drive.google.com/uc?export=view&id=1DgD5nA1h4pGa6K6o7QzACwxzaZMMs2db"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "BottomWear",
+    "subWearCategory": [
+      {
+        "name": "Shorts",
+        "product": [
+          {
+            "name": "Nike In Men's Short",
+            "description": "Modern Nike Flex Shorts Designhttps://drive.google.com/uc?export=view&id=18cPgDjXrzJgy3BfLZUMxKJ56-IWGP5BX",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=18cPgDjXrzJgy3BfLZUMxKJ56-IWGP5BX",
+                "img2": "https://drive.google.com/uc?export=view&id=18cPgDjXrzJgy3BfLZUMxKJ56-IWGP5BX",
+                "img3": "https://drive.google.com/uc?export=view&id=18cPgDjXrzJgy3BfLZUMxKJ56-IWGP5BX"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "BottomWear",
+    "subWearCategory": [
+      {
+        "name": "Shorts",
+        "product": [
+          {
+            "name": "Splash Men's Short",
+            "description": "Stretchy and Comfortable Splash Textures",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=15r4rwpiL81AC3bVRC5GR4PV-xRpdFAR8",
+                "img2": "https://drive.google.com/uc?export=view&id=15r4rwpiL81AC3bVRC5GR4PV-xRpdFAR8",
+                "img3": "https://drive.google.com/uc?export=view&id=15r4rwpiL81AC3bVRC5GR4PV-xRpdFAR8"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "BottomWear",
+    "subWearCategory": [
+      {
+        "name": "Shorts",
+        "product": [
+          {
+            "name": "Running Short's",
+            "description": "Comfortable and Supportive Running Wear",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1nwCHek41vEpD5rWlq18UFFEjRDhuxvvi",
+                "img2": "https://drive.google.com/uc?export=view&id=1nwCHek41vEpD5rWlq18UFFEjRDhuxvvi",
+                "img3": "https://drive.google.com/uc?export=view&id=1nwCHek41vEpD5rWlq18UFFEjRDhuxvvi"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Heels",
+        "product": [
+          {
+            "name": "Loafers Shoe",
+            "description": "Premium Leather Upper for Durability",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1DrmwQZVeuV9nEd422ulRWIkGrMUlE8GT",
+                "img2": "https://drive.google.com/uc?export=view&id=1DrmwQZVeuV9nEd422ulRWIkGrMUlE8GT",
+                "img3": "https://drive.google.com/uc?export=view&id=1DrmwQZVeuV9nEd422ulRWIkGrMUlE8GT"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Heels",
+        "product": [
+          {
+            "name": "Boot Shoe",
+            "description": "Ideal for Work and Industrial",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=18KVjsaCmpw6r5aKq3wpQO8yQdrDB-1DC",
+                "img2": "https://drive.google.com/uc?export=view&id=18KVjsaCmpw6r5aKq3wpQO8yQdrDB-1DC",
+                "img3": "https://drive.google.com/uc?export=view&id=18KVjsaCmpw6r5aKq3wpQO8yQdrDB-1DC"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Heels",
+        "product": [
+          {
+            "name": "Sneakers Shoe",
+            "description": "",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1qeGXMnbZ_7o8ursCWZEijTUJoLSLrGma",
+                "img2": "https://drive.google.com/uc?export=view&id=1qeGXMnbZ_7o8ursCWZEijTUJoLSLrGma",
+                "img3": "https://drive.google.com/uc?export=view&id=1qeGXMnbZ_7o8ursCWZEijTUJoLSLrGma"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Heels",
+        "product": [
+          {
+            "name": "Corporate Style Shoe",
+            "description": "Professional and Stylish Corporate Design",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1gr7M8QCaidLayjZYY7AwvJAE20BkMp25",
+                "img2": "https://drive.google.com/uc?export=view&id=1gr7M8QCaidLayjZYY7AwvJAE20BkMp25",
+                "img3": "https://drive.google.com/uc?export=view&id=1gr7M8QCaidLayjZYY7AwvJAE20BkMp25"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Heels",
+        "product": [
+          {
+            "name": "Shoe Clogs",
+            "description": "Sustainable and Eco-Friendly Materials",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1TUHlAofF9fe6uLIHOyNnlGgcWjd8-N9-",
+                "img2": "https://drive.google.com/uc?export=view&id=1TUHlAofF9fe6uLIHOyNnlGgcWjd8-N9-",
+                "img3": "https://drive.google.com/uc?export=view&id=1TUHlAofF9fe6uLIHOyNnlGgcWjd8-N9-"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "SportShoes",
+        "product": [
+          {
+            "name": "Birde Trendy",
+            "description": "Lightweight and Breathable Sport Shoes",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1kBKBgjoh5bzeCUDQNeVfQ8YorCTegllJ",
+                "img2": "https://drive.google.com/uc?export=view&id=1kBKBgjoh5bzeCUDQNeVfQ8YorCTegllJ",
+                "img3": "https://drive.google.com/uc?export=view&id=1kBKBgjoh5bzeCUDQNeVfQ8YorCTegllJ"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "SportShoes",
+        "product": [
+          {
+            "name": "Knitted Running",
+            "description": "",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1yCC0BPMvdbmnjbobgY0gB0SxasQ7-viN",
+                "img2": "https://drive.google.com/uc?export=view&id=1yCC0BPMvdbmnjbobgY0gB0SxasQ7-viN",
+                "img3": "https://drive.google.com/uc?export=view&id=1yCC0BPMvdbmnjbobgY0gB0SxasQ7-viN"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "SportShoes",
+        "product": [
+          {
+            "name": "Sneakers Men's Style",
+            "description": "Reebok Classic Leather",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1LI8qRPh41JNA3jTFHnVSRvFZlcm5yXXh",
+                "img2": "https://drive.google.com/uc?export=view&id=1LI8qRPh41JNA3jTFHnVSRvFZlcm5yXXh",
+                "img3": "https://drive.google.com/uc?export=view&id=1LI8qRPh41JNA3jTFHnVSRvFZlcm5yXXh"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "SportShoes",
+        "product": [
+          {
+            "name": "Paragon Running",
+            "description": "Comfortable fit for long runs",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1lajHx0MNNf_dkzYLROGGS7VnIVddHWMX",
+                "img2": "https://drive.google.com/uc?export=view&id=1lajHx0MNNf_dkzYLROGGS7VnIVddHWMX",
+                "img3": "https://drive.google.com/uc?export=view&id=1lajHx0MNNf_dkzYLROGGS7VnIVddHWMX"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "SportShoes",
+        "product": [
+          {
+            "name": "Stylish Men's Shoe",
+            "description": "Comfortable and Feel Free",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/file/d/19iDV9J8XZW6SAc3XHccvXJGDI8wFzhKA/view?usp=drive_link",
+                "img2": "https://drive.google.com/file/d/19iDV9J8XZW6SAc3XHccvXJGDI8wFzhKA/view?usp=drive_link",
+                "img3": "https://drive.google.com/file/d/19iDV9J8XZW6SAc3XHccvXJGDI8wFzhKA/view?usp=drive_link"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Boots",
+        "product": [
+          {
+            "name": "Centrino Formal",
+            "description": "Adjustable lacing system",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=15mCenCgWtr_je0FlK_1bduLnKKLVmDRi",
+                "img2": "https://drive.google.com/uc?export=view&id=15mCenCgWtr_je0FlK_1bduLnKKLVmDRi",
+                "img3": "https://drive.google.com/uc?export=view&id=15mCenCgWtr_je0FlK_1bduLnKKLVmDRi"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Boots",
+        "product": [
+          {
+            "name": "Formal Men's Shoe's",
+            "description": "Office Traditional Shoe",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1pt3J02NdjgJjBHi4d0gzAwKtcsKgUIb_",
+                "img2": "https://drive.google.com/uc?export=view&id=1pt3J02NdjgJjBHi4d0gzAwKtcsKgUIb_",
+                "img3": "https://drive.google.com/uc?export=view&id=1pt3J02NdjgJjBHi4d0gzAwKtcsKgUIb_"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Boots",
+        "product": [
+          {
+            "name": "Office Lace Up",
+            "description": "Lace-up closure for secure fit",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=10mvO-gAxI7yZtNaWycl5IRLiHtT5aYrk",
+                "img2": "https://drive.google.com/uc?export=view&id=10mvO-gAxI7yZtNaWycl5IRLiHtT5aYrk",
+                "img3": "https://drive.google.com/uc?export=view&id=10mvO-gAxI7yZtNaWycl5IRLiHtT5aYrk"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Boots",
+        "product": [
+          {
+            "name": "Dehradune Men's",
+            "description": "Be Cultural and Confident",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1G_BdMngsMDUqjuJG1cjWN9xQIRFgkSr2",
+                "img2": "https://drive.google.com/uc?export=view&id=1G_BdMngsMDUqjuJG1cjWN9xQIRFgkSr2",
+                "img3": "https://drive.google.com/uc?export=view&id=1G_BdMngsMDUqjuJG1cjWN9xQIRFgkSr2"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Boots",
+        "product": [
+          {
+            "name": "Leather Coated",
+            "description": "Bonded leather",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=19C46oOJOmcTY1LUHQ-6l6hYaZ0kmY0sE",
+                "img2": "https://drive.google.com/uc?export=view&id=19C46oOJOmcTY1LUHQ-6l6hYaZ0kmY0sE",
+                "img3": "https://drive.google.com/uc?export=view&id=19C46oOJOmcTY1LUHQ-6l6hYaZ0kmY0sE"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Chhapals",
+        "product": [
+          {
+            "name": "Formal Socks",
+            "description": "Free like Flying",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1YKdR0HbnDg0-3lOQs8oXf3yaLJ3C4nZD",
+                "img2": "https://drive.google.com/uc?export=view&id=1YKdR0HbnDg0-3lOQs8oXf3yaLJ3C4nZD",
+                "img3": "https://drive.google.com/uc?export=view&id=1YKdR0HbnDg0-3lOQs8oXf3yaLJ3C4nZD"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Chhapals",
+        "product": [
+          {
+            "name": "Bonjour Design Cotton",
+            "description": "Vibrant colors and stylish patterns",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1f_2UnREFmESIoIrAm8tidpcqq4SzcJLn",
+                "img2": "https://drive.google.com/uc?export=view&id=1f_2UnREFmESIoIrAm8tidpcqq4SzcJLn",
+                "img3": "https://drive.google.com/uc?export=view&id=1f_2UnREFmESIoIrAm8tidpcqq4SzcJLn"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Chhapals",
+        "product": [
+          {
+            "name": "Luxury Socks",
+            "description": "Feeling Luxury Fashion",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": " https://drive.google.com/uc?export=view&id=1zFLh_NFAiRH_kOsCB6kTjgiPlaWabXem",
+                "img2": " https://drive.google.com/uc?export=view&id=1zFLh_NFAiRH_kOsCB6kTjgiPlaWabXem",
+                "img3": " https://drive.google.com/uc?export=view&id=1zFLh_NFAiRH_kOsCB6kTjgiPlaWabXem"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Chhapals",
+        "product": [
+          {
+            "name": "Anchor Sole Sock's",
+            "description": "Soft and stretchy material",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1oiLY7KinuTMvOtfmuID34ddjiG8Lwp4u",
+                "img2": "https://drive.google.com/uc?export=view&id=1oiLY7KinuTMvOtfmuID34ddjiG8Lwp4u",
+                "img3": "https://drive.google.com/uc?export=view&id=1oiLY7KinuTMvOtfmuID34ddjiG8Lwp4u"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Chhapals",
+        "product": [
+          {
+            "name": "Crew Lenght",
+            "description": "Breathable mesh panels for ventilation",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1IpxHNFuwsLfQfkz1VbMxgnBscyxlaCDp",
+                "img2": "https://drive.google.com/uc?export=view&id=1IpxHNFuwsLfQfkz1VbMxgnBscyxlaCDp",
+                "img3": "https://drive.google.com/uc?export=view&id=1IpxHNFuwsLfQfkz1VbMxgnBscyxlaCDp"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "InnerWear-SleepWear",
+    "subWearCategory": [
+      {
+        "name": "BriefsTrucks",
+        "product": [
+          {
+            "name": "Thin Brief",
+            "description": "Look like a Messy Rock",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "https://drive.google.com/uc?export=view&id=1QEw-C-10KodDKc78Atwyi5AxrKeHN_rO",
+                "size2": "https://drive.google.com/uc?export=view&id=1QEw-C-10KodDKc78Atwyi5AxrKeHN_rO",
+                "size3": "https://drive.google.com/uc?export=view&id=1QEw-C-10KodDKc78Atwyi5AxrKeHN_rO"
+              }
+            ],
+            "images": [
+              {
+                "img1": "",
+                "img2": "",
+                "img3": ""
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "InnerWear-SleepWear",
+    "subWearCategory": [
+      {
+        "name": "BriefsTrucks",
+        "product": [
+          {
+            "name": "Rockey Brief",
+            "description": "Roack the Show",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1KZTlWXMLK9v_UgW5mPLp6EP1mkRCxJ0q",
+                "img2": "https://drive.google.com/uc?export=view&id=1KZTlWXMLK9v_UgW5mPLp6EP1mkRCxJ0q",
+                "img3": "https://drive.google.com/uc?export=view&id=1KZTlWXMLK9v_UgW5mPLp6EP1mkRCxJ0q"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "InnerWear-SleepWear",
+    "subWearCategory": [
+      {
+        "name": "BriefsTrucks",
+        "product": [
+          {
+            "name": "Jockey Stick",
+            "description": "Play Like Champion",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1eO7DvQ1g39d0RNojhLJubGAR48q35cGh",
+                "img2": "https://drive.google.com/uc?export=view&id=1eO7DvQ1g39d0RNojhLJubGAR48q35cGh",
+                "img3": "https://drive.google.com/uc?export=view&id=1eO7DvQ1g39d0RNojhLJubGAR48q35cGh"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "InnerWear-SleepWear",
+    "subWearCategory": [
+      {
+        "name": "BriefsTrucks",
+        "product": [
+          {
+            "name": "King of Jungle",
+            "description": "Make your Priory better away",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1x5kEnxPl-FyFbHRS3ZjYyGv_xrXxnX5t",
+                "img2": "https://drive.google.com/uc?export=view&id=1x5kEnxPl-FyFbHRS3ZjYyGv_xrXxnX5t",
+                "img3": "https://drive.google.com/uc?export=view&id=1x5kEnxPl-FyFbHRS3ZjYyGv_xrXxnX5t"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "InnerWear-SleepWear",
+    "subWearCategory": [
+      {
+        "name": "BriefsTrucks",
+        "product": [
+          {
+            "name": "Jammy Brief",
+            "description": "Win the Geame with Pride",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1HWESsh3J3XPpijOpnI5jW7uhDxXn6IG9",
+                "img2": "https://drive.google.com/uc?export=view&id=1HWESsh3J3XPpijOpnI5jW7uhDxXn6IG9",
+                "img3": "https://drive.google.com/uc?export=view&id=1HWESsh3J3XPpijOpnI5jW7uhDxXn6IG9"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "InnerWear-SleepWear",
+    "subWearCategory": [
+      {
+        "name": "Vests",
+        "product": [
+          {
+            "name": "Levis Men's",
+            "description": " Durable and Long-Lasting Boxer Shorts",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1kgT8VhxDivwvs5j9VX9PmJG0Kdolf3kp",
+                "img2": "https://drive.google.com/uc?export=view&id=1kgT8VhxDivwvs5j9VX9PmJG0Kdolf3kp",
+                "img3": "https://drive.google.com/uc?export=view&id=1kgT8VhxDivwvs5j9VX9PmJG0Kdolf3kp"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "InnerWear-SleepWear",
+    "subWearCategory": [
+      {
+        "name": "Vests",
+        "product": [
+          {
+            "name": "Blive Man Vests",
+            "description": " Soft and lightweight construction",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1SN8A1_PFwkaQ9aQqfceGtCpAhCR-2cvX",
+                "img2": "https://drive.google.com/uc?export=view&id=1SN8A1_PFwkaQ9aQqfceGtCpAhCR-2cvX",
+                "img3": "https://drive.google.com/uc?export=view&id=1SN8A1_PFwkaQ9aQqfceGtCpAhCR-2cvX"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "InnerWear-SleepWear",
+    "subWearCategory": [
+      {
+        "name": "Vests",
+        "product": [
+          {
+            "name": "Dixcy Scott",
+            "description": "Comfortable and breathable fabrics",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1RrHHX59INoWcm-cMq9755Nldd-941V8W",
+                "img2": "https://drive.google.com/uc?export=view&id=1RrHHX59INoWcm-cMq9755Nldd-941V8W",
+                "img3": "https://drive.google.com/uc?export=view&id=1RrHHX59INoWcm-cMq9755Nldd-941V8W"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "InnerWear-SleepWear",
+    "subWearCategory": [
+      {
+        "name": "Vests",
+        "product": [
+          {
+            "name": "waist coat",
+            "description": "Feeling come with Comfort Zone",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1T8kLljdl9Ea0L-rKaAV-R4Ol1KKL0-Xh",
+                "img2": "https://drive.google.com/uc?export=view&id=1T8kLljdl9Ea0L-rKaAV-R4Ol1KKL0-Xh",
+                "img3": "https://drive.google.com/uc?export=view&id=1T8kLljdl9Ea0L-rKaAV-R4Ol1KKL0-Xh"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "InnerWear-SleepWear",
+    "subWearCategory": [
+      {
+        "name": "Vests",
+        "product": [
+          {
+            "name": "US Polo",
+            "description": "Affordable prices Durable construction",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1SiJQrJihcfkNcI1iNwCC9PTPtvMo7rPV",
+                "img2": "https://drive.google.com/uc?export=view&id=1SiJQrJihcfkNcI1iNwCC9PTPtvMo7rPV",
+                "img3": "https://drive.google.com/uc?export=view&id=1SiJQrJihcfkNcI1iNwCC9PTPtvMo7rPV"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "InnerWear-SleepWear",
+    "subWearCategory": [
+      {
+        "name": "SleepWearAndLoungeWear",
+        "product": [
+          {
+            "name": "Sleep lounge",
+            "description": "Preppy and Sophisticated Polo Looks",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1hAsBSSxMs4QjVuZliFTb-1OT5mH_YsvM",
+                "img2": "https://drive.google.com/uc?export=view&id=1hAsBSSxMs4QjVuZliFTb-1OT5mH_YsvM",
+                "img3": "https://drive.google.com/uc?export=view&id=1hAsBSSxMs4QjVuZliFTb-1OT5mH_YsvM"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "InnerWear-SleepWear",
+    "subWearCategory": [
+      {
+        "name": "SleepWearAndLoungeWear",
+        "product": [
+          {
+            "name": "Sleep Robes",
+            "description": "Soft Cozy Sleepwear for Relaxation",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1K6n2d9pjCmZ_aJx_r13dzsEl5Xm53YE-",
+                "img2": "https://drive.google.com/uc?export=view&id=1K6n2d9pjCmZ_aJx_r13dzsEl5Xm53YE-",
+                "img3": "https://drive.google.com/uc?export=view&id=1K6n2d9pjCmZ_aJx_r13dzsEl5Xm53YE-"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "InnerWear-SleepWear",
+    "subWearCategory": [
+      {
+        "name": "SleepWearAndLoungeWear",
+        "product": [
+          {
+            "name": " Night Suits",
+            "description": "Adjustablea nd Confortable",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1iPrUi6FFwK54P2gt1M45LRZ4xm2SQAfc",
+                "img2": "https://drive.google.com/uc?export=view&id=1iPrUi6FFwK54P2gt1M45LRZ4xm2SQAfc",
+                "img3": "https://drive.google.com/uc?export=view&id=1iPrUi6FFwK54P2gt1M45LRZ4xm2SQAfc"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "InnerWear-SleepWear",
+    "subWearCategory": [
+      {
+        "name": "SleepWearAndLoungeWear",
+        "product": [
+          {
+            "name": "Sleep Shot",
+            "description": "Feel like a Fully Passage",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "",
+                "img2": "",
+                "img3": ""
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "InnerWear-SleepWear",
+    "subWearCategory": [
+      {
+        "name": "SleepWearAndLoungeWear",
+        "product": [
+          {
+            "name": "",
+            "description": "",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1SoFsdnekTr7AH3ykIZXsya2qoP8UY_25",
+                "img2": "https://drive.google.com/uc?export=view&id=1SoFsdnekTr7AH3ykIZXsya2qoP8UY_25",
+                "img3": "https://drive.google.com/uc?export=view&id=1SoFsdnekTr7AH3ykIZXsya2qoP8UY_25"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "InnerWear-SleepWear",
+    "subWearCategory": [
+      {
+        "name": "Thermals",
+        "product": [
+          {
+            "name": "Lux Cott Wool",
+            "description": "Warm and Cozy Winter Wear",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1jZ8ZocizRNNKn9vhDidfCqCeN3JUn48v",
+                "img2": "https://drive.google.com/uc?export=view&id=1jZ8ZocizRNNKn9vhDidfCqCeN3JUn48v",
+                "img3": "https://drive.google.com/uc?export=view&id=1jZ8ZocizRNNKn9vhDidfCqCeN3JUn48v"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "InnerWear-SleepWear",
+    "subWearCategory": [
+      {
+        "name": "Thermals",
+        "product": [
+          {
+            "name": "U.S Polo",
+            "description": "Comfort Xone With Free Env",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/file/d/1cPt9aKxqaELRaEf-5dVaMPGG7725bsrM/view?usp=drive_link",
+                "img2": "https://drive.google.com/file/d/1cPt9aKxqaELRaEf-5dVaMPGG7725bsrM/view?usp=drive_link",
+                "img3": "https://drive.google.com/file/d/1cPt9aKxqaELRaEf-5dVaMPGG7725bsrM/view?usp=drive_link"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "InnerWear-SleepWear",
+    "subWearCategory": [
+      {
+        "name": "Thermals",
+        "product": [
+          {
+            "name": "Rockey",
+            "description": "Rockey Play with Jockey",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1e5jMUllwLWPYfX8yoXD3IE9v7rwLK8ju",
+                "img2": "https://drive.google.com/uc?export=view&id=1e5jMUllwLWPYfX8yoXD3IE9v7rwLK8ju",
+                "img3": "https://drive.google.com/uc?export=view&id=1e5jMUllwLWPYfX8yoXD3IE9v7rwLK8ju"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "InnerWear-SleepWear",
+    "subWearCategory": [
+      {
+        "name": "Thermals",
+        "product": [
+          {
+            "name": "Wedge Thermal Cover",
+            "description": "Heated In Our Env People",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=12GluG1hiVzaxHY2XyLPadBvLNk1MvXAZ",
+                "img2": "https://drive.google.com/uc?export=view&id=12GluG1hiVzaxHY2XyLPadBvLNk1MvXAZ",
+                "img3": "https://drive.google.com/uc?export=view&id=12GluG1hiVzaxHY2XyLPadBvLNk1MvXAZ"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Men",
+    "wearCategory": "InnerWear-SleepWear",
+    "subWearCategory": [
+      {
+        "name": "Thermals",
+        "product": [
+          {
+            "name": "Sweater Guter",
+            "description": "Feel Heat at Winter",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1Tp5qNzX4hP86j5RdZGohd0NBe8uolUuu",
+                "img2": "https://drive.google.com/uc?export=view&id=1Tp5qNzX4hP86j5RdZGohd0NBe8uolUuu",
+                "img3": "https://drive.google.com/uc?export=view&id=1Tp5qNzX4hP86j5RdZGohd0NBe8uolUuu"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Indian and Fusion Wear",
+    "subWearCategory": [
+      {
+        "name": "Kurtas and Suits",
+        "product": [
+          {
+            "name": "Ethnic Kurta",
+            "description": "Look like Heaven",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1lJBSWA0ujoSck4R0Eb7raazNdS-Vj9kN",
+                "img2": "https://drive.google.com/uc?export=view&id=1lJBSWA0ujoSck4R0Eb7raazNdS-Vj9kN",
+                "img3": "https://drive.google.com/uc?export=view&id=1lJBSWA0ujoSck4R0Eb7raazNdS-Vj9kN"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Indian and Fusion Wear",
+    "subWearCategory": [
+      {
+        "name": "Kurtas and Suits",
+        "product": [
+          {
+            "name": "Tunic Jacket Kurti",
+            "description": "Denim tunic jacket kurti",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1cj3Xj6jLqNvXme-kWVO7mJJLfr5D5w83",
+                "img2": "https://drive.google.com/uc?export=view&id=1cj3Xj6jLqNvXme-kWVO7mJJLfr5D5w83",
+                "img3": "https://drive.google.com/uc?export=view&id=1cj3Xj6jLqNvXme-kWVO7mJJLfr5D5w83"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Indian and Fusion Wear",
+    "subWearCategory": [
+      {
+        "name": "Kurtas and Suits",
+        "product": [
+          {
+            "name": "Mehar Kurti",
+            "description": "Suitable for formal and semi-formal occasions",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1hawZijScIgwZGnN9Ah-V8pD4dCwHWYNy",
+                "img2": "https://drive.google.com/uc?export=view&id=1hawZijScIgwZGnN9Ah-V8pD4dCwHWYNy",
+                "img3": "https://drive.google.com/uc?export=view&id=1hawZijScIgwZGnN9Ah-V8pD4dCwHWYNy"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Indian and Fusion Wear",
+    "subWearCategory": [
+      {
+        "name": "Kurtas and Suits",
+        "product": [
+          {
+            "name": "Red Ethnic",
+            "description": "Deep red or crimson color",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1bgOqzftk3_SrauU3BDehH5mGbz2WlWfZ",
+                "img2": "https://drive.google.com/uc?export=view&id=1bgOqzftk3_SrauU3BDehH5mGbz2WlWfZ",
+                "img3": "https://drive.google.com/uc?export=view&id=1bgOqzftk3_SrauU3BDehH5mGbz2WlWfZ"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Indian and Fusion Wear",
+    "subWearCategory": [
+      {
+        "name": "Sarees",
+        "product": [
+          {
+            "name": "Satin Chiffon",
+            "description": "Satin-chiffon blend fabric",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1wxsnSK8SLnyReLHczGdKB7VOZX87eD34",
+                "img2": "https://drive.google.com/uc?export=view&id=1wxsnSK8SLnyReLHczGdKB7VOZX87eD34",
+                "img3": "https://drive.google.com/uc?export=view&id=1wxsnSK8SLnyReLHczGdKB7VOZX87eD34"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Indian and Fusion Wear",
+    "subWearCategory": [
+      {
+        "name": "Sarees",
+        "product": [
+          {
+            "name": "BankCrofy",
+            "description": "Elegant drape and fall",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1ms5Os3H2lkx-rZyh_EVMOfQyrdi5BUEZ",
+                "img2": "https://drive.google.com/uc?export=view&id=1ms5Os3H2lkx-rZyh_EVMOfQyrdi5BUEZ",
+                "img3": "https://drive.google.com/uc?export=view&id=1ms5Os3H2lkx-rZyh_EVMOfQyrdi5BUEZ"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Indian and Fusion Wear",
+    "subWearCategory": [
+      {
+        "name": "Sarees",
+        "product": [
+          {
+            "name": "Narritva",
+            "description": "Available in various colors and designs",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1jrR7WxJcSMPyP3xvkuO9Rrp8CSiOkjiB",
+                "img2": "https://drive.google.com/uc?export=view&id=1jrR7WxJcSMPyP3xvkuO9Rrp8CSiOkjiB",
+                "img3": "https://drive.google.com/uc?export=view&id=1jrR7WxJcSMPyP3xvkuO9Rrp8CSiOkjiB"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Indian and Fusion Wear",
+    "subWearCategory": [
+      {
+        "name": "Sarees",
+        "product": [
+          {
+            "name": "Peacock Paithani",
+            "description": "Vibrant Peacock Motif Silk Masterpiece",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1fqg0vVCU3lA4XnXX115DtSIgk8I8E_mR",
+                "img2": "https://drive.google.com/uc?export=view&id=1fqg0vVCU3lA4XnXX115DtSIgk8I8E_mR",
+                "img3": "https://drive.google.com/uc?export=view&id=1fqg0vVCU3lA4XnXX115DtSIgk8I8E_mR"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Indian and Fusion Wear",
+    "subWearCategory": [
+      {
+        "name": "Skirts and Palazzos",
+        "product": [
+          {
+            "name": "Vishudh",
+            "description": "Elegant embroidery or prints",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1JFxF9dAMaqRIqHamcLe6sP2TU_Y7Rye7",
+                "img2": "https://drive.google.com/uc?export=view&id=1JFxF9dAMaqRIqHamcLe6sP2TU_Y7Rye7",
+                "img3": "https://drive.google.com/uc?export=view&id=1JFxF9dAMaqRIqHamcLe6sP2TU_Y7Rye7"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Indian and Fusion Wear",
+    "subWearCategory": [
+      {
+        "name": "Skirts and Palazzos",
+        "product": [
+          {
+            "name": "Lace Hem",
+            "description": "Machine-made lace hem",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=11EA3kVgS68w2hAFXrhv-FA1DJJeXAQzi",
+                "img2": "https://drive.google.com/uc?export=view&id=11EA3kVgS68w2hAFXrhv-FA1DJJeXAQzi",
+                "img3": "https://drive.google.com/uc?export=view&id=11EA3kVgS68w2hAFXrhv-FA1DJJeXAQzi"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Indian and Fusion Wear",
+    "subWearCategory": [
+      {
+        "name": "Skirts and Palazzos",
+        "product": [
+          {
+            "name": "Loose Fit",
+            "description": "Comfortable and relaxed fit",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1Xbwq5N3qQv7Y_dDbyH-ZUOEqyJar9iIY",
+                "img2": "https://drive.google.com/uc?export=view&id=1Xbwq5N3qQv7Y_dDbyH-ZUOEqyJar9iIY",
+                "img3": "https://drive.google.com/uc?export=view&id=1Xbwq5N3qQv7Y_dDbyH-ZUOEqyJar9iIY"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Indian and Fusion Wear",
+    "subWearCategory": [
+      {
+        "name": "Skirts and Palazzos",
+        "product": [
+          {
+            "name": "Narrow Woven",
+            "description": "Suitable for structured garments",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1jmw_8LZVyskVVon20rcaBZyGOz6FYLLO",
+                "img2": "https://drive.google.com/uc?export=view&id=1jmw_8LZVyskVVon20rcaBZyGOz6FYLLO",
+                "img3": "https://drive.google.com/uc?export=view&id=1jmw_8LZVyskVVon20rcaBZyGOz6FYLLO"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Indian and Fusion Wear",
+    "subWearCategory": [
+      {
+        "name": "Lehenga Cholis",
+        "product": [
+          {
+            "name": "Zeel Clothings",
+            "description": "Vibrant colors and embellishments",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=19QVmoEEWvW51rcQFMZvSCHNoh1bwmrqv",
+                "img2": "https://drive.google.com/uc?export=view&id=19QVmoEEWvW51rcQFMZvSCHNoh1bwmrqv",
+                "img3": "https://drive.google.com/uc?export=view&id=19QVmoEEWvW51rcQFMZvSCHNoh1bwmrqv"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Indian and Fusion Wear",
+    "subWearCategory": [
+      {
+        "name": "Lehenga Cholis",
+        "product": [
+          {
+            "name": "Zeeya Mehak",
+            "description": "Feel Queen with Sword",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1IG32ocyYmABbYeL3FARa8vt7oYkSChDe",
+                "img2": "https://drive.google.com/uc?export=view&id=1IG32ocyYmABbYeL3FARa8vt7oYkSChDe",
+                "img3": "https://drive.google.com/uc?export=view&id=1IG32ocyYmABbYeL3FARa8vt7oYkSChDe"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Indian and Fusion Wear",
+    "subWearCategory": [
+      {
+        "name": "Lehenga Cholis",
+        "product": [
+          {
+            "name": "Wedding",
+            "description": " Contemporary Designer Lehenga",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1-knc98xHlfu32Y6HKQUNsE66PqfDXtXR",
+                "img2": "https://drive.google.com/uc?export=view&id=1-knc98xHlfu32Y6HKQUNsE66PqfDXtXR",
+                "img3": "https://drive.google.com/uc?export=view&id=1-knc98xHlfu32Y6HKQUNsE66PqfDXtXR"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Indian and Fusion Wear",
+    "subWearCategory": [
+      {
+        "name": "Lehenga Cholis",
+        "product": [
+          {
+            "name": "Ghagra",
+            "description": "Traditional and cultural significance",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=10dxfWcjqFjyD49Dq8RuW0fE67y0fBaWM",
+                "img2": "https://drive.google.com/uc?export=view&id=10dxfWcjqFjyD49Dq8RuW0fE67y0fBaWM",
+                "img3": "https://drive.google.com/uc?export=view&id=10dxfWcjqFjyD49Dq8RuW0fE67y0fBaWM"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Indian and Fusion Wear",
+    "subWearCategory": [
+      {
+        "name": "Sweaters",
+        "product": [
+          {
+            "name": "Red Aran",
+            "description": "Classic Aran sweater design",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1JJkCDjL5lZI3xOzIHcma0Yf0Yfo03OSP",
+                "img2": "https://drive.google.com/uc?export=view&id=1JJkCDjL5lZI3xOzIHcma0Yf0Yfo03OSP",
+                "img3": "https://drive.google.com/uc?export=view&id=1JJkCDjL5lZI3xOzIHcma0Yf0Yfo03OSP"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Indian and Fusion Wear",
+    "subWearCategory": [
+      {
+        "name": "Sweaters",
+        "product": [
+          {
+            "name": "Fabrics",
+            "description": "Suitable for various occasions",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1nFB3OY0uYrLDAxG_oDtaSwyx-abSLIAg",
+                "img2": "https://drive.google.com/uc?export=view&id=1nFB3OY0uYrLDAxG_oDtaSwyx-abSLIAg",
+                "img3": "https://drive.google.com/uc?export=view&id=1nFB3OY0uYrLDAxG_oDtaSwyx-abSLIAg"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Indian and Fusion Wear",
+    "subWearCategory": [
+      {
+        "name": "Sweaters",
+        "product": [
+          {
+            "name": "Textured",
+            "description": "Comfortable and stylish",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1jkdNs2o0WW7V2Jy35vLn9OJVsQuVrz4F",
+                "img2": "https://drive.google.com/uc?export=view&id=1jkdNs2o0WW7V2Jy35vLn9OJVsQuVrz4F",
+                "img3": "https://drive.google.com/uc?export=view&id=1jkdNs2o0WW7V2Jy35vLn9OJVsQuVrz4F"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Indian and Fusion Wear",
+    "subWearCategory": [
+      {
+        "name": "Sweaters",
+        "product": [
+          {
+            "name": "PepeJeans",
+            "description": "Durable and long-lasting",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1KeWuzXAesJcypfpNUkgHxMqtye6vOnCg",
+                "img2": "https://drive.google.com/uc?export=view&id=1KeWuzXAesJcypfpNUkgHxMqtye6vOnCg",
+                "img3": "https://drive.google.com/uc?export=view&id=1KeWuzXAesJcypfpNUkgHxMqtye6vOnCg"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Western Wear",
+    "subWearCategory": [
+      {
+        "name": "Dresses",
+        "product": [
+          {
+            "name": "Royalty",
+            "description": "Comfortable cotton casual wear shirts.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1BniSZutfuaE-ZJMMQP-zFMNz2JrVnO6h",
+                "img2": "https://drive.google.com/uc?export=view&id=1BniSZutfuaE-ZJMMQP-zFMNz2JrVnO6h",
+                "img3": "https://drive.google.com/uc?export=view&id=1BniSZutfuaE-ZJMMQP-zFMNz2JrVnO6h"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Western Wear",
+    "subWearCategory": [
+      {
+        "name": "Dresses",
+        "product": [
+          {
+            "name": "Pixabay",
+            "description": "Stylish denim jeans for men.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1KEcx1dIJk7qfIVv4kk2ocJRh73FDzgNL",
+                "img2": "https://drive.google.com/uc?export=view&id=1KEcx1dIJk7qfIVv4kk2ocJRh73FDzgNL",
+                "img3": "https://drive.google.com/uc?export=view&id=1KEcx1dIJk7qfIVv4kk2ocJRh73FDzgNL"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Western Wear",
+    "subWearCategory": [
+      {
+        "name": "Dresses",
+        "product": [
+          {
+            "name": "Lifestyle",
+            "description": "Beautiful bridal wear lace designs.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1KYYMgYWNTimsW3Y05XYc38UlagPC_msz",
+                "img2": "https://drive.google.com/uc?export=view&id=1KYYMgYWNTimsW3Y05XYc38UlagPC_msz",
+                "img3": "https://drive.google.com/uc?export=view&id=1KYYMgYWNTimsW3Y05XYc38UlagPC_msz"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Western Wear",
+    "subWearCategory": [
+      {
+        "name": "Dresses",
+        "product": [
+          {
+            "name": "Stylish",
+            "description": "Soft silky smooth fabric textures.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1wMLJwjdrxf4PcuAFAnTCj6Hxb_Fsmelo",
+                "img2": "https://drive.google.com/uc?export=view&id=1wMLJwjdrxf4PcuAFAnTCj6Hxb_Fsmelo",
+                "img3": "https://drive.google.com/uc?export=view&id=1wMLJwjdrxf4PcuAFAnTCj6Hxb_Fsmelo"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Western Wear",
+    "subWearCategory": [
+      {
+        "name": "Tops",
+        "product": [
+          {
+            "name": "Urbon",
+            "description": "Trendy teenage fashion clothing styles.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1F5jfLr7-qCuwkEhOqHv-gDkHRwNptWba",
+                "img2": "https://drive.google.com/uc?export=view&id=1F5jfLr7-qCuwkEhOqHv-gDkHRwNptWba",
+                "img3": "https://drive.google.com/uc?export=view&id=1F5jfLr7-qCuwkEhOqHv-gDkHRwNptWba"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Western Wear",
+    "subWearCategory": [
+      {
+        "name": "Tops",
+        "product": [
+          {
+            "name": "NNnow",
+            "description": "Warm woolen winter wear sweaters.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1lXZJWEUaHkmwUFxK5PXboBBKd8Q198J5",
+                "img2": "https://drive.google.com/uc?export=view&id=1lXZJWEUaHkmwUFxK5PXboBBKd8Q198J5",
+                "img3": "https://drive.google.com/uc?export=view&id=1lXZJWEUaHkmwUFxK5PXboBBKd8Q198J5"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Western Wear",
+    "subWearCategory": [
+      {
+        "name": "Tops",
+        "product": [
+          {
+            "name": "Stylish Design",
+            "description": "Luxurious leather jacket collections.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1incwTRMc_i_4BJUth8Oa0yuAj6ps06dU",
+                "img2": "https://drive.google.com/uc?export=view&id=1incwTRMc_i_4BJUth8Oa0yuAj6ps06dU",
+                "img3": "https://drive.google.com/uc?export=view&id=1incwTRMc_i_4BJUth8Oa0yuAj6ps06dU"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Western Wear",
+    "subWearCategory": [
+      {
+        "name": "Tops",
+        "product": [
+          {
+            "name": "Embroidred",
+            "description": "Handmade traditional ethnic wear designs.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1StxMCPR25yV0iSK-ZpCsCrLyGFVMB1WH",
+                "img2": "https://drive.google.com/uc?export=view&id=1StxMCPR25yV0iSK-ZpCsCrLyGFVMB1WH",
+                "img3": "https://drive.google.com/uc?export=view&id=1StxMCPR25yV0iSK-ZpCsCrLyGFVMB1WH"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Western Wear",
+    "subWearCategory": [
+      {
+        "name": "Tshirts",
+        "product": [
+          {
+            "name": "My tshirt",
+            "description": "Vibrant colorful printed dresses.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1mYXzodgeKztbFzekIeOGDru2v39GVynq",
+                "img2": "https://drive.google.com/uc?export=view&id=1mYXzodgeKztbFzekIeOGDru2v39GVynq",
+                "img3": "https://drive.google.com/uc?export=view&id=1mYXzodgeKztbFzekIeOGDru2v39GVynq"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Western Wear",
+    "subWearCategory": [
+      {
+        "name": "Tshirts",
+        "product": [
+          {
+            "name": "Yourself Printed",
+            "description": "Classic formal business attire suits.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1MjrzA5TT4hg00mYL47xiYBqrN7l4uyRK",
+                "img2": "https://drive.google.com/uc?export=view&id=1MjrzA5TT4hg00mYL47xiYBqrN7l4uyRK",
+                "img3": "https://drive.google.com/uc?export=view&id=1MjrzA5TT4hg00mYL47xiYBqrN7l4uyRK"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Western Wear",
+    "subWearCategory": [
+      {
+        "name": "Tshirts",
+        "product": [
+          {
+            "name": "BlackWhite",
+            "description": "Chic stylish women's workwear dresses.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1jjrP4xpaAa2Ek1Nw1l7w3PsMZnxYP7mH",
+                "img2": "https://drive.google.com/uc?export=view&id=1jjrP4xpaAa2Ek1Nw1l7w3PsMZnxYP7mH",
+                "img3": "https://drive.google.com/uc?export=view&id=1jjrP4xpaAa2Ek1Nw1l7w3PsMZnxYP7mH"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Western Wear",
+    "subWearCategory": [
+      {
+        "name": "Tshirts",
+        "product": [
+          {
+            "name": "Oversized",
+            "description": "Cozy knitted winter hats scarves.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1KR9f2LetMGwdi1rjBQhF9Wd2N7yQKNDJ",
+                "img2": "https://drive.google.com/uc?export=view&id=1KR9f2LetMGwdi1rjBQhF9Wd2N7yQKNDJ",
+                "img3": "https://drive.google.com/uc?export=view&id=1KR9f2LetMGwdi1rjBQhF9Wd2N7yQKNDJ"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Western Wear",
+    "subWearCategory": [
+      {
+        "name": "Jeans",
+        "product": [
+          {
+            "name": "Browse",
+            "description": "Unique vintage-inspired clothing designs.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1BzwZA7tqxzZd9wV-Ez6UG15NZIG6oxSD",
+                "img2": "https://drive.google.com/uc?export=view&id=1BzwZA7tqxzZd9wV-Ez6UG15NZIG6oxSD",
+                "img3": "https://drive.google.com/uc?export=view&id=1BzwZA7tqxzZd9wV-Ez6UG15NZIG6oxSD"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Western Wear",
+    "subWearCategory": [
+      {
+        "name": "Jeans",
+        "product": [
+          {
+            "name": "FreeStyle",
+            "description": "Exquisite embroidered wedding dresses.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1BkOKbittRLsPxqXHZhhD7FuhA8x1TSNn",
+                "img2": "https://drive.google.com/uc?export=view&id=1BkOKbittRLsPxqXHZhhD7FuhA8x1TSNn",
+                "img3": "https://drive.google.com/uc?export=view&id=1BkOKbittRLsPxqXHZhhD7FuhA8x1TSNn"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Western Wear",
+    "subWearCategory": [
+      {
+        "name": "Jeans",
+        "product": [
+          {
+            "name": "Style",
+            "description": "Affordable fashionable streetwear clothing brands.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=13ielkLQaR0AyMDraZPehnHav1wqd_5NW",
+                "img2": "https://drive.google.com/uc?export=view&id=13ielkLQaR0AyMDraZPehnHav1wqd_5NW",
+                "img3": "https://drive.google.com/uc?export=view&id=13ielkLQaR0AyMDraZPehnHav1wqd_5NW"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Western Wear",
+    "subWearCategory": [
+      {
+        "name": "Jeans",
+        "product": [
+          {
+            "name": "Trendy",
+            "description": "High-quality athletic wear apparel.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1vbJ-fdNFKLXKamUnoAtdL1CuARZi-IMK",
+                "img2": "https://drive.google.com/uc?export=view&id=1vbJ-fdNFKLXKamUnoAtdL1CuARZi-IMK",
+                "img3": "https://drive.google.com/uc?export=view&id=1vbJ-fdNFKLXKamUnoAtdL1CuARZi-IMK"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Western Wear",
+    "subWearCategory": [
+      {
+        "name": "Track Pants & Joggers",
+        "product": [
+          {
+            "name": "Solid Slim Fit",
+            "description": "Sophisticated evening wear gowns.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1LXRckWufKqBNMO3HeMIHzSEuGpy-GfpI",
+                "img2": "https://drive.google.com/uc?export=view&id=1LXRckWufKqBNMO3HeMIHzSEuGpy-GfpI",
+                "img3": "https://drive.google.com/uc?export=view&id=1LXRckWufKqBNMO3HeMIHzSEuGpy-GfpI"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Western Wear",
+    "subWearCategory": [
+      {
+        "name": "Track Pants & Joggers",
+        "product": [
+          {
+            "name": "Cotton Track",
+            "description": "Relaxed fit casual wear pants.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1Fo53zVjhY9KJqZAyB7r8-FeVd6K3ppVO",
+                "img2": "https://drive.google.com/uc?export=view&id=1Fo53zVjhY9KJqZAyB7r8-FeVd6K3ppVO",
+                "img3": "https://drive.google.com/uc?export=view&id=1Fo53zVjhY9KJqZAyB7r8-FeVd6K3ppVO"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Western Wear",
+    "subWearCategory": [
+      {
+        "name": "Track Pants & Joggers",
+        "product": [
+          {
+            "name": "Athleisure",
+            "description": "Timeless classic little black dresses.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1yf7XGUZJasVutIoaQ4ZdcpxGpRSkxZaE",
+                "img2": "https://drive.google.com/uc?export=view&id=1yf7XGUZJasVutIoaQ4ZdcpxGpRSkxZaE",
+                "img3": "https://drive.google.com/uc?export=view&id=1yf7XGUZJasVutIoaQ4ZdcpxGpRSkxZaE"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "Western Wear",
+    "subWearCategory": [
+      {
+        "name": "Track Pants & Joggers",
+        "product": [
+          {
+            "name": "Fit Elastic",
+            "description": "Fashionable plus-size clothing options.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1sjqoJsbaZqb3r7qKSl2phDvNvXwrWY_U",
+                "img2": "https://drive.google.com/uc?export=view&id=1sjqoJsbaZqb3r7qKSl2phDvNvXwrWY_U",
+                "img3": "https://drive.google.com/uc?export=view&id=1sjqoJsbaZqb3r7qKSl2phDvNvXwrWY_U"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Heels",
+        "product": [
+          {
+            "name": "Aldo Vralg",
+            "description": "Beautifully crafted handmade jewelry.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1OkfCMPhR6KAYZlt18p6G7SaJNwyZoqCl",
+                "img2": "https://drive.google.com/uc?export=view&id=1OkfCMPhR6KAYZlt18p6G7SaJNwyZoqCl",
+                "img3": "https://drive.google.com/uc?export=view&id=1OkfCMPhR6KAYZlt18p6G7SaJNwyZoqCl"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Heels",
+        "product": [
+          {
+            "name": "Classic Style",
+            "description": "Stylish maternity wear clothing designs.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=17J90zM_sZr-YsCsbpIBrA5B1qgXcQ3jI",
+                "img2": "https://drive.google.com/uc?export=view&id=17J90zM_sZr-YsCsbpIBrA5B1qgXcQ3jI",
+                "img3": "https://drive.google.com/uc?export=view&id=17J90zM_sZr-YsCsbpIBrA5B1qgXcQ3jI"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Heels",
+        "product": [
+          {
+            "name": "Banquet High Heels",
+            "description": " Durable outdoor clothing gear.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1b2VKwQkgLIizpbR5EiGMJMNkjEHSDZpp",
+                "img2": "https://drive.google.com/uc?export=view&id=1b2VKwQkgLIizpbR5EiGMJMNkjEHSDZpp",
+                "img3": "https://drive.google.com/uc?export=view&id=1b2VKwQkgLIizpbR5EiGMJMNkjEHSDZpp"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Heels",
+        "product": [
+          {
+            "name": "Nelly Floral Strappy",
+            "description": "Elegant formal shirt designs.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1WU37pGr_DuctjLJhPOh4E0YaaPWzLxbN",
+                "img2": "https://drive.google.com/uc?export=view&id=1WU37pGr_DuctjLJhPOh4E0YaaPWzLxbN",
+                "img3": "https://drive.google.com/uc?export=view&id=1WU37pGr_DuctjLJhPOh4E0YaaPWzLxbN"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "SportShoes",
+        "product": [
+          {
+            "name": "Fancy Shoes",
+            "description": "Chic children's clothing designs.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1N7gDse8EbIe5hfS75dawgZCjlOCaqlCp",
+                "img2": "https://drive.google.com/uc?export=view&id=1N7gDse8EbIe5hfS75dawgZCjlOCaqlCp",
+                "img3": "https://drive.google.com/uc?export=view&id=1N7gDse8EbIe5hfS75dawgZCjlOCaqlCp"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "SportShoes",
+        "product": [
+          {
+            "name": "Sporty Women",
+            "description": "Warm fleece-lined clothing options.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=140Y4hBVZdOmzVWem2jQHimeWCiKUqmMB",
+                "img2": "https://drive.google.com/uc?export=view&id=140Y4hBVZdOmzVWem2jQHimeWCiKUqmMB",
+                "img3": "https://drive.google.com/uc?export=view&id=140Y4hBVZdOmzVWem2jQHimeWCiKUqmMB"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "SportShoes",
+        "product": [
+          {
+            "name": "Regular Shoe",
+            "description": "Luxury designer clothing brands.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1OGOOe8DnePoSski1NlbWDTVsnkw4Z_d7",
+                "img2": "https://drive.google.com/uc?export=view&id=1OGOOe8DnePoSski1NlbWDTVsnkw4Z_d7",
+                "img3": "https://drive.google.com/uc?export=view&id=1OGOOe8DnePoSski1NlbWDTVsnkw4Z_d7"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "SportShoes",
+        "product": [
+          {
+            "name": "Pair BY Pair",
+            "description": "Comfortable sleepwear pajama sets.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1-dA1GWDiLc-ftofLGdqmc8raV4fpb_hu",
+                "img2": "https://drive.google.com/uc?export=view&id=1-dA1GWDiLc-ftofLGdqmc8raV4fpb_hu",
+                "img3": "https://drive.google.com/uc?export=view&id=1-dA1GWDiLc-ftofLGdqmc8raV4fpb_hu"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Boots",
+        "product": [
+          {
+            "name": "Extra Vagant Black Genuine",
+            "description": "Hand-painted unique clothing designs.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1vjhDVUa10smlOnxdcUYqeJpdA2g1Sjxj",
+                "img2": "https://drive.google.com/uc?export=view&id=1vjhDVUa10smlOnxdcUYqeJpdA2g1Sjxj",
+                "img3": "https://drive.google.com/uc?export=view&id=1vjhDVUa10smlOnxdcUYqeJpdA2g1Sjxj"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Boots",
+        "product": [
+          {
+            "name": "Long Walk",
+            "description": "Vintage-inspired clothing accessories.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1Uf7_VHbVGs5hz3MQ0m5Nybyxv9e8ET22",
+                "img2": "https://drive.google.com/uc?export=view&id=1Uf7_VHbVGs5hz3MQ0m5Nybyxv9e8ET22",
+                "img3": "https://drive.google.com/uc?export=view&id=1Uf7_VHbVGs5hz3MQ0m5Nybyxv9e8ET22"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Boots",
+        "product": [
+          {
+            "name": "Latest Collection",
+            "description": " Waterproof outdoor clothing options.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=16H-WO6JOk8MjQmcT8M_7sq4-MDlqluMd",
+                "img2": "https://drive.google.com/uc?export=view&id=16H-WO6JOk8MjQmcT8M_7sq4-MDlqluMd",
+                "img3": "https://drive.google.com/uc?export=view&id=16H-WO6JOk8MjQmcT8M_7sq4-MDlqluMd"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Boots",
+        "product": [
+          {
+            "name": "Stylish Boot",
+            "description": "Elegant wedding guest dresses.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": " https://drive.google.com/uc?export=view&id=18YFC_f60eprAyyjBWH9fnCL1Py3Pkshx",
+                "img2": " https://drive.google.com/uc?export=view&id=18YFC_f60eprAyyjBWH9fnCL1Py3Pkshx",
+                "img3": " https://drive.google.com/uc?export=view&id=18YFC_f60eprAyyjBWH9fnCL1Py3Pkshx"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Chhapals",
+        "product": [
+          {
+            "name": "Classic Style",
+            "description": "Affordable clothing subscription boxes.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1glFpaUya6ygk4P4z9R0E1YPV3Ic3dtbC",
+                "img2": "https://drive.google.com/uc?export=view&id=1glFpaUya6ygk4P4z9R0E1YPV3Ic3dtbC",
+                "img3": "https://drive.google.com/uc?export=view&id=1glFpaUya6ygk4P4z9R0E1YPV3Ic3dtbC"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Chhapals",
+        "product": [
+          {
+            "name": "Bata Chhapal",
+            "description": "Sustainable eco-friendly clothing brands.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1hagAY2FJ7QaGEqvoAaxeaCNzPf783RIo",
+                "img2": "https://drive.google.com/uc?export=view&id=1hagAY2FJ7QaGEqvoAaxeaCNzPf783RIo",
+                "img3": "https://drive.google.com/uc?export=view&id=1hagAY2FJ7QaGEqvoAaxeaCNzPf783RIo"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Chhapals",
+        "product": [
+          {
+            "name": "Durable Regular",
+            "description": "Classic denim jacket designs.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1PO-XADaBB8kO01o9AwxylMM-iBNwao-0",
+                "img2": "https://drive.google.com/uc?export=view&id=1PO-XADaBB8kO01o9AwxylMM-iBNwao-0",
+                "img3": "https://drive.google.com/uc?export=view&id=1PO-XADaBB8kO01o9AwxylMM-iBNwao-0"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Chhapals",
+        "product": [
+          {
+            "name": "Gerief Women Synthetic",
+            "description": "Trendy athleisure wear clothing.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1WJgUe08cK5aPOdxufd2re6ugJpf_5pS4",
+                "img2": "https://drive.google.com/uc?export=view&id=1WJgUe08cK5aPOdxufd2re6ugJpf_5pS4",
+                "img3": "https://drive.google.com/uc?export=view&id=1WJgUe08cK5aPOdxufd2re6ugJpf_5pS4"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Sandals",
+        "product": [
+          {
+            "name": "Shoe Topia",
+            "description": "Beautiful lace trim clothing.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1FLS8qeoYP2L1Ya5_YOq2ll9gy40b2eQc",
+                "img2": "https://drive.google.com/uc?export=view&id=1FLS8qeoYP2L1Ya5_YOq2ll9gy40b2eQc",
+                "img3": "https://drive.google.com/uc?export=view&id=1FLS8qeoYP2L1Ya5_YOq2ll9gy40b2eQc"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Sandals",
+        "product": [
+          {
+            "name": "Shoe Lab",
+            "description": " High-quality clothing fabrics matter.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1CHB62qfP2fqjRSKBXM4OvPPHYEVDtgKE",
+                "img2": "https://drive.google.com/uc?export=view&id=1CHB62qfP2fqjRSKBXM4OvPPHYEVDtgKE",
+                "img3": "https://drive.google.com/uc?export=view&id=1CHB62qfP2fqjRSKBXM4OvPPHYEVDtgKE"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Sandals",
+        "product": [
+          {
+            "name": "Strappy",
+            "description": "Fashionable plus-size clothing options.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1qYTlDpa-ut4JFqdc8mtS_PDr_mCxggf3",
+                "img2": "https://drive.google.com/uc?export=view&id=1qYTlDpa-ut4JFqdc8mtS_PDr_mCxggf3",
+                "img3": "https://drive.google.com/uc?export=view&id=1qYTlDpa-ut4JFqdc8mtS_PDr_mCxggf3"
+              }
+            ],
+            "inventary": 99
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "wearCategory": "FootWear",
+    "subWearCategory": [
+      {
+        "name": "Sandals",
+        "product": [
+          {
+            "name": "Trendy",
+            "description": "Beautifully crafted handmade jewelry.",
+            "price": "700",
+            "discounted_price": "560",
+            "off_percentage": "20",
+            "ratting": "4/5",
+            "color_variant": [
+              {
+                "color1": "Red",
+                "color2": "Black",
+                "color3": "White"
+              }
+            ],
+            "size_variant": [
+              {
+                "size1": "lg",
+                "size2": "xl",
+                "size3": "xxl"
+              }
+            ],
+            "images": [
+              {
+                "img1": "https://drive.google.com/uc?export=view&id=1h4Xeoa4W9lgDojWrk4jKYuVhOAKB739-",
+                "img2": "https://drive.google.com/uc?export=view&id=1h4Xeoa4W9lgDojWrk4jKYuVhOAKB739-",
+                "img3": "https://drive.google.com/uc?export=view&id=1h4Xeoa4W9lgDojWrk4jKYuVhOAKB739-"
+              }
+            ],
+            "inventary": 100
+          }
+        ]
+      }
+    ]
+  }
+]

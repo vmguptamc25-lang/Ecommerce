@@ -1,0 +1,104 @@
+Full Stack Nextjs+Mongodb
+
+Session Management:-
+localstorage+jwt token
+
+better to user cookies check session on each request
+
+
+lib/authGuard.js
+
+
+import jwt from "jsonwebtoken";
+
+export function verifySession(req) {
+  const authHeader = req.headers.get("authorization");
+
+  if (!authHeader) return null;
+
+  const token = authHeader.split(" ")[1];
+
+  try {
+    return jwt.verify(token, process.env.JWT_SECRET);
+  } catch {
+    return null;
+  }
+}
+
+app/api/cart/add/route.js
+import { verifySession } from "@/lib/authGuard";
+
+export async function POST(req) {
+  const user = verifySession(req);
+
+  if (!user) {
+    return new Response(
+      JSON.stringify({ message: "Session expired. Login again." }),
+      { status: 401 }
+    );
+  }
+
+  // ✅ Token valid — continue API logic
+  return new Response(
+    JSON.stringify({ success: true, user }),
+    { status: 200 }
+  );
+}
+
+✅ Now Every API Can Be Secured Like This
+Example:
+const user = verifySession(req);
+if (!user) return new Response("Unauthorized", { status: 401 });
+
+🚀 BEST METHOD — Protect ALL APIs Automatically (Middleware)
+📂 middleware.js (Next.js Root)
+import jwt from "jsonwebtoken";
+import { NextResponse } from "next/server";
+
+export function middleware(req) {
+  const token = req.headers.get("authorization")?.split(" ")[1];
+
+  if (!token) {
+    return NextResponse.json(
+      { message: "Unauthorized" },
+      { status: 401 }
+    );
+  }
+
+  try {
+    jwt.verify(token, process.env.JWT_SECRET);
+    return NextResponse.next();
+  } catch {
+    return NextResponse.json(
+      { message: "Session expired" },
+      { status: 401 }
+    );
+  }
+}
+
+export const config = {
+  matcher: ["/api/cart/:path*", "/api/order/:path*"]
+};
+
+✅ This Protects ALL These APIs Automatically
+/api/cart/*
+/api/order/*
+/api/profile/*
+
+
+✅ Frontend Must Send JWT in Every Request
+fetch("/api/cart/add", {
+  method: "POST",
+  headers: {
+    Authorization: `Bearer ${localStorage.getItem("jwt")}`
+  },
+  body: JSON.stringify(data)
+});
+
+✅ If Token Expires → Auto Logout Client
+if (res.status === 401) {
+  alert("Session expired");
+  localStorage.clear();
+  window.location.href = "/login";
+}
+

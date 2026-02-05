@@ -1,0 +1,98 @@
+[
+    {
+        "name":"Women footwear",
+        "ll_off":50,
+        "hl_off":80,
+        "img_url":"https://drive.google.com/uc?export=view&id=1Xha8dU-iKiGKIz2V2yfq7vNlPSnRZEMN"
+    },
+    {
+        "name":"Women active Wear",
+        "ll_off":70,
+        "hl_off":80,
+        "img_url":"https://drive.google.com/uc?export=view&id=1xzeIcOPQEIbkSH-ZhGlDXaLuya137AKn"
+    },
+    {
+        "name":"Western Wear",
+        "ll_off":50,
+        "hl_off":80,
+        "img_url":"https://drive.google.com/uc?export=view&id=1Ddx3LgPlw999jyvera5gnygbthQqluCl"
+    },
+    {
+        "name":"Watch",
+        "ll_off":20,
+        "hl_off":80,
+        "img_url":"https://drive.google.com/uc?export=view&id=1etis17L44ZO9lql7LWTEjUHm6ShvovnQ"
+    },
+    {
+        "name":"Sport Wear",
+        "ll_off":60,
+        "hl_off":80,
+        "img_url":"https://drive.google.com/uc?export=view&id=1zBUXxPVSQwC1ARw40ltGW6z8jO50TnZe"
+    },
+    {
+        "name":"Sleep Wear",
+        "ll_off":10,
+        "hl_off":80,
+        "img_url":"https://drive.google.com/uc?export=view&id=131aRUCfoLg98SIWetUlLgLtcyraP66gJ"
+    },
+    {
+        "name":"Mens Footwear",
+        "ll_off":60,
+        "hl_off":80,
+        "img_url":"https://drive.google.com/uc?export=view&id=1wBPrsPDzOXicMzDVVMpBvGRWPO1zHoMW"
+    },
+    {
+        "name":"Mens active Wear",
+        "ll_off":30,
+        "hl_off":80,
+        "img_url":"https://drive.google.com/uc?export=view&id=14QutSV_l4GA4s6_PEC2YAL6clsJnvYFS"
+    },
+    {
+        "name":"Loung Wear",
+        "ll_off":50,
+        "hl_off":80,
+        "img_url":"https://drive.google.com/uc?export=view&id=1ndzAURudVhaKbYN49UtMErAVERYDlVcv"
+    },
+    {
+        "name":"Linge Wear",
+        "ll_off":50,
+        "hl_off":80,
+        "img_url":"https://drive.google.com/uc?export=view&id=1I0CrAlY3R-Wq7W4t3DA4iUrCu3e3k_89"
+    },
+    {
+        "name":"Kids Wear",
+        "ll_off":20,
+        "hl_off":80,
+        "img_url":"https://drive.google.com/uc?export=view&id=1sc8AUw9jBUUlrHHbwobhCKlBoELpKaTW"
+    },
+    {
+        "name":"Inner Wear",
+        "ll_off":55,
+        "hl_off":80,
+        "img_url":"https://drive.google.com/uc?export=view&id=1LJkj74Yi1V7sDK6PXieY_E0HrwMv3MAo"
+    },
+    {
+        "name":"Grooming",
+        "ll_off":45,
+        "hl_off":80,
+        "img_url":"https://drive.google.com/uc?export=view&id=1M6CNK1wzkHMH_ycqyijH3dbTU-hAZjVM"
+    },
+    {
+        "name":"Ethnic Wear",
+        "ll_off":65,
+        "hl_off":80,
+        "img_url":"https://drive.google.com/uc?export=view&id=1RI341Hw79Gc8xHI8auXf6HnFyFLLBVDk"
+    },
+    {
+        "name":"Casual Wear",
+        "ll_off":75,
+        "hl_off":80,
+        "img_url":"https://drive.google.com/uc?export=view&id=1ogYWyrJ1tfm9Dh-mCQentjcqFcpUvfpT"
+    },
+    {
+        "name":"Beauty Makesup",
+        "ll_off":78,
+        "hl_off":80,
+        "img_url":"https://drive.google.com/uc?export=view&id=1bytU7ZHkCKNgKxsL8-qNB14rMEftP69l"
+    }
+]

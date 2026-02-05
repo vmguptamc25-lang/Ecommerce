@@ -1,0 +1,36 @@
+.discount_gradient {
+    background: #a46edb;
+    background: linear-gradient(90deg, rgba(164, 110, 219, 1) 0%, rgba(254, 255, 224, 1) 0%, rgba(252, 252, 237, 1) 11%);
+}
+
+.discount_gradient2 {
+    background: #ffa3a3;
+    background: linear-gradient(90deg, rgba(255, 163, 163, 1) 1%, rgba(221, 139, 139, 1) 19%, rgba(255, 150, 112, 1) 46%, rgba(255, 102, 102, 1) 60%, rgba(255, 54, 54, 1) 86%);
+}
+
+.fixed_div {
+    background-color: grey;
+    color: white;
+    position: fixed;
+    top: 50%;
+    right: -90px;
+    width: auto;
+    height: 30px;
+    text-align: center;
+    transform: rotate(-90deg) ;
+}
+
+.searchBycat{
+    background-color: #f5cd71!important;
+    color: #441111a3;
+}
+
+.flash_deal_card{
+    height:auto;
+}
+
+.custom_img{
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
