@@ -146,7 +146,7 @@ export default function Header() {
                     <ul className='list-unstyled d-flex m-2 p-2 fs-6'>
                         <li className='ps-lg-4 ps-3 cpointer' onMouseOver={() => mouseHover('Men')} onMouseLeave={leave}>Men</li>
                         <li className='ps-lg-4 ps-3 cpointer' onMouseOver={() => mouseHover('Women')} onMouseLeave={leave}>Women</li>
-                        <li className='ps-lg-4 ps-3 cpointer' onMouseOver={() => mouseHover('Kids')} onMouseLeave={leave}>Kid's</li>
+                        <li className='ps-lg-4 ps-3 cpointer' onMouseOver={() => mouseHover('Kids')} onMouseLeave={leave}>Kids</li>
                         <li className='ps-lg-4 ps-3 cpointer' onMouseOver={() => mouseHover('HomeLiving')} onMouseLeave={leave}>Home & Living</li>
                         <li className='ps-lg-4 ps-3 cpointer' onMouseOver={() => mouseHover('Accessories')} onMouseLeave={leave}>Accessories</li>
                     </ul>
@@ -258,7 +258,7 @@ export default function Header() {
                 {/* MOBILE CATEGORY LIST */}
                 <div className='m-0 p-2 light_pink' id='superlist'>
                     <ol className='list-unstyled cpointer'>
-                        <li><a onClick={() => setvisible('men')}>Men's <span className='text-end'><Image src={arrowhead} alt='arrowhead'/></span></a>
+                        <li><a onClick={() => setvisible('men')}>Mens <span className='text-end'><Image src={arrowhead} alt='arrowhead'/></span></a>
                             <ol className='list-unstyled ps-4 d-none' id='men'>
                                 <li><a onClick={() => setvisible('men_tw')}>TopWear <span className='text-end'><Image src={arrowhead} alt='arrowhead'/></span></a>
                                     <ol className='list-unstyled ps-4 fst-italic d-none' id='men_tw'>
