@@ -3,7 +3,6 @@ import React, { useState, useEffect } from "react";
 import Image from 'next/image'
 import '../../css/product.css'
 import watchlist from '../../assets/icons/watchlist.png'
-// import sampleImg from '../../../public/sampleImg.jpg'
 import { toast } from "react-toastify";
 
 import { useContext } from 'react'
