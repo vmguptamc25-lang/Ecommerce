@@ -74,7 +74,7 @@ export default function Product_category_cards({ productData, productDetail }) {
         if (globalValue) {
             setSelectedImage(imageOptions[0]);
         }
-    }, [globalValue]);
+    }, [globalValue, imageOptions]);
 
     return (
         <div className="col-sm-3 col-6 card shadow-sm m-md-1 m-0 d-flex flex-column ">
