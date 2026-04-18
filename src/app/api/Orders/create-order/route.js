@@ -3,8 +3,10 @@ import { NextResponse } from "next/server";
 import clientPromise from "@/lib/db";
 import fs from "fs";
 import path from "path";
+export const dynamic = "force-dynamic";
 
 const productFilePath = path.join(process.cwd(), "data", "product.json");
+
 
 function findProduct(productsData, productName) {
   for (const category of productsData) {
@@ -45,7 +47,6 @@ export async function POST(req) {
     }
 
     // WRITE INVENTORY BACK
-    fs.writeFileSync(productFilePath, JSON.stringify(productsData, null, 2), "utf-8");
 
     // SAVE ORDER TO DB
     const client = await clientPromise;
